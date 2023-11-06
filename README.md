@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">I'm passionate about frontend dev and design.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alibeji&theme=onedark" alt="alibeji" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alibeji&theme=onedark&title=Repositories,Experience,Commits,Issues,Reviews,PullRequest" alt="alibeji" /></a> </p>
 
 - 🔭 I’m currently working on [couscous-restaurant](https://github.com/Midbytes/couscous-restaurant)
 
